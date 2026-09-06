@@ -1,6 +1,6 @@
-# ⚖️ License Generator — Generador de licencias open source
+# LICENSE Generator — Free Online Tool
 
-**Free Open Source License Generator.** Generate the LICENSE file text for MIT, Apache 2.0, GPL 3.0, BSD 3-Clause, ISC or Unlicense with a custom year and author/holder. No sign-up, no ads, 100% client-side.
+**LICENSE Generator.** Generate your project's LICENSE file: MIT, Apache 2.0, GPL 3.0, BSD, ISC. No sign-up, no ads, 100% client-side.
 
 🌐 **Demo en vivo / Live demo:** [miguelacm.es/tools/license-generator](https://miguelacm.es/tools/license-generator)
 
@@ -13,13 +13,9 @@
 
 ## ✨ Features
 
-- **6 licencias / 6 licenses:** MIT, Apache 2.0, GPL 3.0, BSD 3-Clause, ISC, Unlicense
-- **Año y autor / Year and author:** customizable copyright holder and year
-- **Descarga directa / Direct download:** get the ready-to-use LICENSE file with one click
-- **GPL/Apache:** includes the official summary + link to the full legal text, as recommended by their own authors
-- **Sin servidor / Zero server:** Everything runs in the browser — nothing is ever uploaded
-- **Embebible / Embeddable:** Use it as an iframe on any website
-- **Open source:** MIT license, use it freely
+- **📜 Six licenses:** MIT, Apache-2.0, GPL-3.0, BSD-3, ISC and Unlicense.
+- **✍️ Your name and year:** Personalized output with the proper legal text.
+- **🔒 100% private:** Generated locally in your browser.
 
 ---
 
@@ -45,15 +41,13 @@ NEXT_PUBLIC_EMBED_URL=https://miguelacm.es/embed/license-generator
 
 ## 📦 Embed on your website
 
-### Iframe (plug & play)
-
 ```html
 <iframe
   src="https://miguelacm.es/embed/license-generator"
   width="100%"
   height="700"
   style="border:none;border-radius:12px;"
-  title="Generador de Licencias Open Source Gratis — miguelacm.es"
+  title="LICENSE Generator — miguelacm.es"
   loading="lazy"
 ></iframe>
 ```
@@ -62,11 +56,11 @@ NEXT_PUBLIC_EMBED_URL=https://miguelacm.es/embed/license-generator
 
 ```html
 <a href="https://miguelacm.es/tools/license-generator" target="_blank" rel="noopener">
-  Generador de licencias open source gratis por MACM
+  LICENSE Generator — free tool by MACM
 </a>
 ```
 
-> 💡 The link option generates a real backlink that benefits the project. Recommended if your platform supports custom HTML.
+> 💡 The link option generates a real backlink that benefits the project.
 
 ---
 
@@ -74,7 +68,7 @@ NEXT_PUBLIC_EMBED_URL=https://miguelacm.es/embed/license-generator
 
 | Technology | Version | Purpose |
 |---|---|---|
-| [Next.js](https://nextjs.org) | 16 | React framework + SSG |
+| [Next.js](https://nextjs.org) | 16 | React framework |
 | [TypeScript](https://www.typescriptlang.org) | 5 | Type safety |
 | [Tailwind CSS](https://tailwindcss.com) | 4 | Styling |
 | [react-icons](https://react-icons.github.io/react-icons/) | 5 | Icons |
